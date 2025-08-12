@@ -1,0 +1,41 @@
+{
+    "total_downloads": 9,
+    "instagram_downloads": 9,
+    "youtube_downloads": 0,
+    "searches": 0,
+    "daily_stats": {
+        "2025-08-09": 1,
+        "2025-08-10": 8,
+        "2025-08-11": 4
+    },
+    "popular_features": {
+        "instagram_download": 9,
+        "youtube_download": 0,
+        "instagram_search": 0,
+        "youtube_search": 0,
+        "profile_info": 4
+    },
+    "errors": [
+        {
+            "timestamp": "2025-08-10 12:48:48",
+            "error": "خطا در دانلود اینستاگرام: لینک معتبر نیست یا فرمتش اشتباه است.",
+            "user_id": 7123591552
+        },
+        {
+            "timestamp": "2025-08-11 12:30:37",
+            "error": "خطا در دانلود اینستاگرام: خطا: Fetching Post metadata failed.",
+            "user_id": 6280597202
+        },
+        {
+            "timestamp": "2025-08-11 12:31:39",
+            "error": "خطا در دانلود اینستاگرام: خطا: Fetching Post metadata failed.",
+            "user_id": 6280597202
+        },
+        {
+            "timestamp": "2025-08-11 15:55:49",
+            "error": "خطا در دریافت اطلاعات پیج اینستاگرام: Redirected to login page. Use --login or --load-cookies.",
+            "user_id": 6280597202
+        }
+    ],
+    "last_updated": "2025-08-11 16:48:11"
+}

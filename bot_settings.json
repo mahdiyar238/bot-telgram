@@ -1,0 +1,19 @@
+{
+    "admin_password": "1388mk",
+    "max_file_size": 104857600,
+    "features_enabled": {
+        "instagram_download": true,
+        "youtube_download": true,
+        "instagram_search": true,
+        "youtube_search": true,
+        "profile_info": true
+    },
+    "blocked_users": [
+        3838
+    ],
+    "broadcast_settings": {
+        "last_broadcast": "",
+        "total_sent": 0,
+        "failed_sends": 0
+    }
+}
